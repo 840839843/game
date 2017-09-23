@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"一把普普通通的铜钥匙","effects":[],"hitType":0,"iconIndex":195,"itypeId":1,"name":"钥匙","note":"","occasion":0,"price":1,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"老奶奶给Ken的信，不知道里面是什么内容","effects":[],"hitType":0,"iconIndex":193,"itypeId":1,"name":"老奶奶的信","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":1,"variance":20},"description":"散发着诡异的味道，不过从食堂打包的 应该没问题吧？","effects":[{"code":11,"dataId":0,"value1":0,"value2":-10}],"hitType":0,"iconIndex":211,"itypeId":1,"name":"从食堂打包的饭菜","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":4,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"限量版的哦\n恢复全员100%HP","effects":[{"code":11,"dataId":0,"value1":1,"value2":0}],"hitType":0,"iconIndex":180,"itypeId":1,"name":"Ken之家限量版樱桃味可口可乐","note":"","occasion":0,"price":0,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
+{"id":5,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":3,"variance":20},"description":"Sunny夸你了!","effects":[{"code":11,"dataId":0,"value1":1,"value2":0}],"hitType":0,"iconIndex":20,"itypeId":2,"name":"Sunny的夸奖","note":"","occasion":0,"price":1000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+]
